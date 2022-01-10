@@ -24,7 +24,7 @@ types = []
 members = ["library/*", "examples"]
 
 [dependencies]
-bevy_app = "0.4"
+bevy_app = "0.6"
 bevy_asset = "0.4"
 bevy_core = "0.4"
 bevy_ecs = "0.4"
